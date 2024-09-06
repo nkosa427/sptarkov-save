@@ -1,0 +1,7 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot3,"TetrisGG",normal,4,Completed,"Crates Outside of Scav Bunker","Crates Outside of Scav Bunker: Objective #1","2","16:48:15","16:48:47",
+Bot3,"TetrisGG",normal,4,Failed,"Med Tent","Med Tent: Objective #1","1","16:48:52","16:49:09",
+Bot1,"witek",normal,3,Completed,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","16:48:15","16:48:27",
+Bot1,"witek",normal,3,Pending,"Weapon Crate in Workshop","Weapon Crate in Workshop: Objective #1","1","16:48:32","N/A",
+Bot5,"Bepis",normal,24,Active,"1st Floor Office","1st Floor Office: Objective #2","1","16:48:15","N/A",
+Bot4,"Tyrian",normal,17,Pending,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","16:48:15","N/A",

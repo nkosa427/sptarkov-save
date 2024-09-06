@@ -1,0 +1,7 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot2,"Валёк Мятый (TheSparta)",normal,1,Failed,"3rd Floor Office","3rd Floor Office: Objective #1","2","19:51:29","19:53:47",
+Bot1,"Nikita",normal,12,Completed,"Scout","Zone place_pacemaker_SCOUT_04","1","19:51:29","19:51:58",
+Bot1,"Nikita",normal,12,Active,"Scout","Zone place_pacemaker_SCOUT_01","1","19:52:03","N/A",
+Bot3,"FlashMode",normal,38,Failed,"3rd Floor Bridge","3rd Floor Bridge: Objective #1","2","19:51:30","19:52:58",
+Bot4,"Петро Стример (Mr_Pudlik)",normal,1,Completed,"Weapon Crate Outside of Forklift","Weapon Crate Outside of Forklift: Objective #1","1","19:53:31","19:53:39",
+Bot4,"Петро Стример (Mr_Pudlik)",normal,1,Pending,"Basement Crates","Basement Crates: Objective #2","1","19:53:44","N/A",

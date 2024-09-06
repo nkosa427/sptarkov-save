@@ -1,4 +1,16 @@
-*.log
 3.7.4 backup/
 3.7.5 backup/
 Aki_Data/
+EscapeFromTarkov_Data/
+Minimap/
+MonoBleedingEdge/
+NLog/
+
+**/BepInEx/cache/
+
+SPTInstaller.exe
+UnityPlayer.dll
+winhttp.dll
+Aki.Launcher.exe
+Aki.Server.exe
+EscapeFromTarkov.exe

@@ -1,0 +1,17 @@
+{
+  "FirstRun": false,
+  "DefaultLocale": "English",
+  "LauncherStartGameAction": 0,
+  "UseAutoLogin": true,
+  "IsDevMode": false,
+  "GamePath": "E:\\Games\\SPTarkov\\3.9.8",
+  "ExcludeFromCleanup": [],
+  "Server": {
+    "AutoLoginCreds": {
+      "Username": "absol",
+      "Password": ""
+    },
+    "Name": "SPT",
+    "Url": "http://127.0.0.1:6969"
+  }
+}

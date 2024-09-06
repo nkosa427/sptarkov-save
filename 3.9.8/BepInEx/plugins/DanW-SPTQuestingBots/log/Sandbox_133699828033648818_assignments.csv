@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot7,"Claus1978",normal,13,Pending,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","21:05:58","N/A",
+Bot1,"Virtual",normal,4,Completed,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","21:05:58","21:06:04",
+Bot1,"Virtual",normal,4,Failed,"Saving the Mole","Zone Sandbox_5_Laborant_exploration","1","21:06:09","21:06:37",
+Bot1,"Virtual",normal,4,Pending,"Saving the Mole","Zone Sandbox_5_Office_exploration","1","21:06:42","N/A",
+Bot2,"JustNU",normal,24,Pending,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","21:05:58","N/A",
+Bot6,"jehree",normal,12,Active,"Shooting Cans","Zone Sandbox_2_AGS_exploration","1","21:05:58","N/A",
+Bot11,"GeorgRavioli",normal,14,Pending,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","21:05:58","N/A",
+Bot10,"bitwarrior",normal,9,Active,"Underground Entrance","Underground Entrance: Objective #3","1","21:05:58","N/A",
+Bot9,"MeowletteBlackpaw",normal,23,Active,"Saving the Mole","Item TerraGroup scientist's hard drive","1","21:05:58","N/A",
+Bot8,"Jiro",normal,28,Active,"Spawn Rush","Spawn Rush: Objective #1","1","21:05:59","N/A",

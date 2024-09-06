@@ -1,0 +1,11 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"CreamCheese",normal,6,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","16:01:56","16:02:26",
+Bot2,"TimmyGG",normal,10,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","16:01:56","16:02:47",
+Bot6,"nimanul",normal,7,Pending,"Sanitary Standards - Part 1","Zone pumproom","1","16:01:57","N/A",
+Bot5,"SovietWalrus",normal,7,Failed,"Boilers","Boilers: Objective #1","1","16:01:57","16:03:07",
+Bot7,"蘑菇汤",normal,8,Failed,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","16:01:57","16:03:26",
+Bot10,"Харитон Камертон (Gleneth)",normal,1,Completed,"Basement Crates","Basement Crates: Objective #1","1","16:05:57","16:06:30",
+Bot10,"Харитон Камертон (Gleneth)",normal,1,Completed,"Basement Crates","Basement Crates: Objective #2","1","16:06:35","16:06:53",
+Bot10,"Харитон Камертон (Gleneth)",normal,1,Pending,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","16:06:59","N/A",
+Bot11,"Katto",normal,11,Active,"Bad Rep Evidence","Zone locked_office","1","16:06:55","N/A",
+Bot12,"rayleefx",normal,5,Pending,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","16:06:56","N/A",

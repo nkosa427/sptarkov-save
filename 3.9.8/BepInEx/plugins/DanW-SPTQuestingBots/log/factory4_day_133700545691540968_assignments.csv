@@ -1,0 +1,7 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot1,"Virtual",normal,1,Failed,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","17:00:37","17:00:42",
+Bot3,"Dirtbikercj",normal,26,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","17:00:37","17:01:50",
+Bot6,"Mako",normal,2,Pending,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","17:00:37","N/A",
+Bot5,"Extrenz Arnautov",normal,11,Active,"Delivery From the Past","Zone case_extraction","1","17:00:37","N/A",
+Bot4,"Karthel",normal,2,Pending,"3rd Floor Office","3rd Floor Office: Objective #1","1","17:00:37","N/A",
+Bot7,"scrob",normal,2,Active,"Weapon Crate in Workshop","Weapon Crate in Workshop: Objective #1","1","17:00:38","N/A",

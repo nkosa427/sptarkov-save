@@ -1,0 +1,483 @@
+2024-09-05 16:59:07.644 -07:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://127.0.0.1:6969/notifierServer/getwebsocket/66d8e3f4000046012128d500
+2024-09-05 17:00:17.557 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:00:17.557 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:03:20.019 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:03:20.019 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:03:20.056 -07:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://127.0.0.1:6969/notifierServer/getwebsocket/66d8e3f4000046012128d500
+2024-09-05 17:04:50.242 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:04:50.242 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:04:50.242 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:05:58.883 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:05:58.883 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:16:52.181 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:16:52.181 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:16:52.234 -07:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://127.0.0.1:6969/notifierServer/getwebsocket/66d8e3f4000046012128d500
+2024-09-05 17:17:18.016 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:2048 MessageType:Text
+2024-09-05 17:17:18.016 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:2044 MessageType:Text
+2024-09-05 17:17:18.032 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:350 MessageType:Text
+2024-09-05 17:17:18.032 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:4442
+2024-09-05 17:17:18.032 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "ccca74dd955102253c014adf",
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "ccca74dd955102253c014adf",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 12,
+    "dt": 1725581838,
+    "text": "",
+    "templateId": "657315e1dccd301f1301416a successMessageText",
+    "hasRewards": true,
+    "rewardCollected": false,
+    "items": {
+      "stash": "cd95400a88aed791e12ab035",
+      "data": [
+        {
+          "_id": "4101a59d3e6d79302c4aaeb4",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 14000,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "a34dbf8e64a95849c624bcd7",
+          "_tpl": "59e6152586f77473dc057aa1",
+          "upd": {
+            "Repairable": {
+              "Durability": 100,
+              "MaxDurability": 100
+            },
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "01673bdc06838b61ca56e893",
+          "_tpl": "59e649f986f77411d949b246",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_gas_block",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "aac89be5c9feffb961764b3e",
+          "_tpl": "59e6284f86f77440d569536f",
+          "parentId": "01673bdc06838b61ca56e893",
+          "slotId": "mod_handguard",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "752707d23d1c06e97de4eb0f",
+          "_tpl": "59e61eb386f77440d64f5daf",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_muzzle",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "3fe5d196d3543d34b809385d",
+          "_tpl": "59e6318286f77444dd62c4cc",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_pistol_grip",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "6f0f427499df026d6de0d6f3",
+          "_tpl": "59e6449086f7746c9f75e822",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_reciever",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "9c8233ab583873a313797ff5",
+          "_tpl": "59d650cf86f7741b846413a4",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_sight_rear",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "49517f7cbe32badc141e45f8",
+          "_tpl": "59e6227d86f77440d64f5dc2",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_stock",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "8358c6516fc5c169b6d2986f",
+          "_tpl": "5b1fd4e35acfc40018633c39",
+          "parentId": "a34dbf8e64a95849c624bcd7",
+          "slotId": "mod_magazine",
+          "upd": {
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "0c3a48fbbf8c85b9e2b6ae8d",
+          "_tpl": "64ace9d9b5bf5e95f50a4c1d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "66da4a0e48501142e5000001",
+          "_tpl": "64b7af5a8532cf95ee0a0dbd",
+          "parentId": "0c3a48fbbf8c85b9e2b6ae8d",
+          "slotId": "cartridges",
+          "upd": {
+            "StackObjectsCount": 20,
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "a86f3cda9f252103282bdb80",
+          "_tpl": "64ace9d9b5bf5e95f50a4c1d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "66da4a0e48501142e5000002",
+          "_tpl": "64b7af5a8532cf95ee0a0dbd",
+          "parentId": "a86f3cda9f252103282bdb80",
+          "slotId": "cartridges",
+          "upd": {
+            "StackObjectsCount": 20,
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "a8677f657239b07affd8ec8d",
+          "_tpl": "64ace9d9b5bf5e95f50a4c1d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "66da4a0e48501142e5000003",
+          "_tpl": "64b7af5a8532cf95ee0a0dbd",
+          "parentId": "a8677f657239b07affd8ec8d",
+          "slotId": "cartridges",
+          "upd": {
+            "StackObjectsCount": 20,
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "fb025738cb4bd590f0c341cc",
+          "_tpl": "64ace9d9b5bf5e95f50a4c1d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "66da4a0e48501142e5000004",
+          "_tpl": "64b7af5a8532cf95ee0a0dbd",
+          "parentId": "fb025738cb4bd590f0c341cc",
+          "slotId": "cartridges",
+          "upd": {
+            "StackObjectsCount": 20,
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "5eaffabb8ab899223bae1e82",
+          "_tpl": "64ace9d9b5bf5e95f50a4c1d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "66da4a0e48501142e5000005",
+          "_tpl": "64b7af5a8532cf95ee0a0dbd",
+          "parentId": "5eaffabb8ab899223bae1e82",
+          "slotId": "cartridges",
+          "upd": {
+            "StackObjectsCount": 20,
+            "SpawnedInSession": true
+          }
+        },
+        {
+          "_id": "469483d5d96df298178ad803",
+          "_tpl": "59d625f086f774661516605d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "fd8105b981361425284feb8c",
+          "_tpl": "59d625f086f774661516605d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        },
+        {
+          "_id": "2396a44f061a95af5038988d",
+          "_tpl": "59d625f086f774661516605d",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "cd95400a88aed791e12ab035",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 172800
+  }
+}
+2024-09-05 17:17:18.032 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:17:23.157 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:306 MessageType:Text
+2024-09-05 17:17:23.157 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:306
+2024-09-05 17:17:23.157 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "e596808fbca9f36db2226619",
+  "dialogId": "54cb50c76803fa8b248b4571",
+  "message": {
+    "_id": "e596808fbca9f36db2226619",
+    "uid": "54cb50c76803fa8b248b4571",
+    "type": 10,
+    "dt": 1725581843,
+    "text": "",
+    "templateId": "5936da9e86f7742d65037edf description",
+    "hasRewards": false,
+    "rewardCollected": false
+  }
+}
+2024-09-05 17:17:23.157 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:17:27.919 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:748 MessageType:Text
+2024-09-05 17:17:27.919 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:748
+2024-09-05 17:17:27.919 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "6adba15dfcee3195b8ef37fd",
+  "dialogId": "58330581ace78e27b8b10cee",
+  "message": {
+    "_id": "6adba15dfcee3195b8ef37fd",
+    "uid": "58330581ace78e27b8b10cee",
+    "type": 12,
+    "dt": 1725581848,
+    "text": "",
+    "templateId": "657315e270bb0b8dba00cc48 successMessageText",
+    "hasRewards": true,
+    "rewardCollected": false,
+    "items": {
+      "stash": "d77c1552ac981ec174889f24",
+      "data": [
+        {
+          "_id": "20609996fae6a6364622aae6",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 12000,
+            "SpawnedInSession": true
+          },
+          "parentId": "d77c1552ac981ec174889f24",
+          "slotId": "main"
+        },
+        {
+          "_id": "154489d7dd7defe51fc0e959",
+          "_tpl": "6033fa48ffd42c541047f728",
+          "upd": {
+            "StackObjectsCount": 1,
+            "SpawnedInSession": true
+          },
+          "parentId": "d77c1552ac981ec174889f24",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 172800
+  }
+}
+2024-09-05 17:17:27.919 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:17:32.107 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:306 MessageType:Text
+2024-09-05 17:17:32.107 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:306
+2024-09-05 17:17:32.107 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "704c326145809eb8a9cba421",
+  "dialogId": "58330581ace78e27b8b10cee",
+  "message": {
+    "_id": "704c326145809eb8a9cba421",
+    "uid": "58330581ace78e27b8b10cee",
+    "type": 10,
+    "dt": 1725581852,
+    "text": "",
+    "templateId": "596b36c586f77450d6045ad2 description",
+    "hasRewards": false,
+    "rewardCollected": false
+  }
+}
+2024-09-05 17:17:32.107 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:17:42.151 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:306 MessageType:Text
+2024-09-05 17:17:42.151 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:306
+2024-09-05 17:17:42.151 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "8f8c760525e0ae6a6b4bbaf8",
+  "dialogId": "58330581ace78e27b8b10cee",
+  "message": {
+    "_id": "8f8c760525e0ae6a6b4bbaf8",
+    "uid": "58330581ace78e27b8b10cee",
+    "type": 10,
+    "dt": 1725581862,
+    "text": "",
+    "templateId": "66058cb22cee99303f1ba067 description",
+    "hasRewards": false,
+    "rewardCollected": false
+  }
+}
+2024-09-05 17:17:42.151 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:18:22.247 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:18:22.247 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:18:22.247 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:19:52.244 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:19:52.244 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:19:52.244 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:21:22.238 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:21:22.238 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:21:22.238 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:21:30.004 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:21:30.004 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:33:37.611 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:33:37.611 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:33:37.611 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:35:07.610 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:35:07.610 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:35:07.610 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:35:58.058 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:529 MessageType:Text
+2024-09-05 17:35:58.058 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:529
+2024-09-05 17:35:58.058 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "9a6e2c1c8d2da35189a2d94c",
+  "dialogId": "579dc571d53a0658a154fbec",
+  "message": {
+    "_id": "9a6e2c1c8d2da35189a2d94c",
+    "uid": "579dc571d53a0658a154fbec",
+    "type": 13,
+    "dt": 1725582958,
+    "text": "",
+    "templateId": "64648f64063abf54100f587b 0",
+    "hasRewards": true,
+    "rewardCollected": false,
+    "items": {
+      "stash": "aff9ab0e32a491294962a0b6",
+      "data": [
+        {
+          "_id": "e4565a87ef07dcc7e3653f8b",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 2400
+          },
+          "parentId": "aff9ab0e32a491294962a0b6",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200
+  }
+}
+2024-09-05 17:35:58.058 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:36:21.935 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:36:21.935 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:36:21.971 -07:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://127.0.0.1:6969/notifierServer/getwebsocket/66d8e3f4000046012128d500
+2024-09-05 17:37:51.990 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:37:51.990 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:37:51.990 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:39:21.976 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:39:21.976 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:39:21.976 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:40:51.978 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:40:51.978 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:40:51.978 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:42:21.976 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:42:21.976 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:42:21.976 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:43:51.981 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:43:51.981 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:43:51.981 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:45:21.978 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:45:21.978 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:45:21.978 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping
+2024-09-05 17:46:40.054 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:46:40.054 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:53:56.768 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:530 MessageType:Text
+2024-09-05 17:53:56.768 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:530
+2024-09-05 17:53:56.768 -07:00|Info|push-notifications|Got notification | ChatMessageReceived
+{
+  "type": "new_message",
+  "eventId": "b2b1b22eb4c9c4c37b144d0d",
+  "dialogId": "579dc571d53a0658a154fbec",
+  "message": {
+    "_id": "b2b1b22eb4c9c4c37b144d0d",
+    "uid": "579dc571d53a0658a154fbec",
+    "type": 13,
+    "dt": 1725584037,
+    "text": "",
+    "templateId": "64648f64063abf54100f587b 0",
+    "hasRewards": true,
+    "rewardCollected": false,
+    "items": {
+      "stash": "3fa04480cdbc25cce7c518f2",
+      "data": [
+        {
+          "_id": "04fe3e5c8606ee3ca48f1285",
+          "_tpl": "5449016a4bdc2d6f028b456f",
+          "upd": {
+            "StackObjectsCount": 95237
+          },
+          "parentId": "3fa04480cdbc25cce7c518f2",
+          "slotId": "main"
+        }
+      ]
+    },
+    "maxStorageTime": 259200
+  }
+}
+2024-09-05 17:53:56.768 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received notification: Type: ChatMessageReceived, Time: 0, Duration: Default, ShowNotification: False
+2024-09-05 17:54:21.605 -07:00|Info|push-notifications|LongPollingWebSocketRequest canceled
+2024-09-05 17:54:21.605 -07:00|Info|push-notifications|LongPollingWebSocketRequest webSocket disposed
+2024-09-05 17:54:21.643 -07:00|Info|push-notifications|NotificationManager: new params received url:  ws:ws://127.0.0.1:6969/notifierServer/getwebsocket/66d8e3f4000046012128d500
+2024-09-05 17:55:51.651 -07:00|Info|push-notifications|LongPollingWebSocketRequest result Count:32 MessageType:Text
+2024-09-05 17:55:51.651 -07:00|Info|push-notifications|LongPollingWebSocketRequest received:32
+2024-09-05 17:55:51.651 -07:00|Info|push-notifications|NotificationManager.ProcessMessage | Received Service Notifications Ping

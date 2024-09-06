@@ -1,0 +1,23 @@
+SPT-AKI Profile Editor Версия 2.8.6 для сервера SPT-AKI 3.7.0 - 3.7.6
+https://github.com/SkiTles55/SPT-AKI-Profile-Editor
+
+Discord сервер для обсуждения и платной поддержки от разработчика - https://discord.gg/NTwSA4AfRP
+
+Для установки распакуйте скачанный архив, и запустите setup.exe
+
+Изменения:
+Исправлена ошибка парсинга статуса квеста "AvailableAfter"
+
+Поддержать разработчика:
+https://yoomoney.ru/to/410015658095326
+Ссылка на обмен Steam
+https://steamcommunity.com/tradeoffer/new/?partner=350485380%26token=zCrhUwxR
+LTC кошелек
+MNtz8Zz1cPD1CZadoc38jT5qeqeFBS6Aif
+
+Отправить баг репорт \ Предложить новую функцию
+https://github.com/SkiTles55/SPT-AKI-Profile-Editor/issues/new/choose
+
+Часто задаваемые вопросы - https://github.com/SkiTles55/SPT-AKI-Profile-Editor/blob/master/FAQ.md
+Использование вспомогательного мода - https://github.com/SkiTles55/SPT-AKI-Profile-Editor/blob/master/Guidelines/ModHelperRu.md
+

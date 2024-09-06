@@ -1,0 +1,12 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot10,"Bingus",normal,7,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","19:38:53","19:39:47",
+Bot10,"Bingus",normal,7,Completed,"Weapon Crate Outside of Forklift","Weapon Crate Outside of Forklift: Objective #1","1","19:39:52","19:39:57",
+Bot10,"Bingus",normal,7,Pending,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","19:40:02","N/A",
+Bot11,"lualeet",normal,7,Pending,"Sanitary Standards - Part 1","Zone pumproom","1","19:38:53","N/A",
+Bot12,"1nco",normal,6,Active,"Crates Near Lower Platform","Crates Near Lower Platform: Objective #1","1","19:38:53","N/A",
+Bot9,"Диман Ювелир (RainbowPC)",normal,1,Failed,"Dumpster Hiding","Dumpster Hiding: Objective #1","1","19:38:53","19:38:59",
+Bot13,"riku8405",normal,7,Failed,"Bad Rep Evidence","Zone locked_office","1","19:38:53","19:39:57",
+Bot14,"PudgeNubbins",normal,5,Active,"Med Tent","Med Tent: Objective #1","1","19:38:53","N/A",
+Bot15,"itsMickle",normal,10,Failed,"Med Tent","Med Tent: Objective #1","1","19:38:54","19:40:10",
+Bot17,"Шингис Провинциал (svbtext)",normal,1,Completed,"Med Tent","Med Tent: Objective #1","2","19:40:53","19:41:09",
+Bot17,"Шингис Провинциал (svbtext)",normal,1,Pending,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","19:41:14","N/A",

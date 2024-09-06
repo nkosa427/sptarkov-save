@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot5,"CWX",normal,3,Active,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","22:57:25","N/A",
+Bot1,"Mr_Pudlik",normal,4,Active,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","22:57:25","N/A",
+Bot6,"Kobrakon",normal,12,Pending,"Saving the Mole","Zone Sandbox_5_Office_exploration","1","22:57:25","N/A",
+Bot9,"MrFandor1n",normal,8,Completed,"Saving the Mole","Zone Sandbox_5_DeadGroup_exploration","1","22:57:25","22:57:46",
+Bot9,"MrFandor1n",normal,8,Pending,"Saving the Mole","Zone Sandbox_5_Laborant_exploration","1","22:57:51","N/A",
+Bot2,"vampuico",normal,7,Failed,"First in Line","Zone Sandbox_1_MedicalArea_exploration","1","22:57:26","22:57:51",
+Bot2,"vampuico",normal,7,Pending,"Shooting Cans","Zone Sandbox_2_Kord_exploration","1","22:57:56","N/A",

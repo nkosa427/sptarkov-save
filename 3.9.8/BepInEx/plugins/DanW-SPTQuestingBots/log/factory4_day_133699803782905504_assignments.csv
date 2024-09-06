@@ -1,0 +1,6 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot49,"Mako",normal,9,Completed,"NE Crates in Workshop","NE Crates in Workshop: Objective #1","1","20:22:48","20:22:56",
+Bot49,"Mako",normal,9,Pending,"Basement Crates","Basement Crates: Objective #2","1","20:23:01","N/A",
+Bot51,"Swankyorc",normal,9,Completed,"Weapon Crate in Workshop","Weapon Crate in Workshop: Objective #1","1","20:22:48","20:22:53",
+Bot51,"Swankyorc",normal,9,Pending,"Basement Crates","Basement Crates: Objective #1","1","20:22:58","N/A",
+Bot50,"Helldiver",normal,14,Pending,"Scout","Zone place_pacemaker_SCOUT_01","1","20:22:48","N/A",

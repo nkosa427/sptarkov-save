@@ -1,0 +1,8 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot140,"YankeeNoodle742",normal,9,Pending,"Sanitary Standards - Part 1","Zone pumproom","1","17:48:15","N/A",
+Bot139,"3371",normal,9,Completed,"The Huntsman Path - Secured Perimeter","Zone huntsman_013","1","17:48:15","17:48:24",
+Bot139,"3371",normal,9,Completed,"Delivery From the Past","Zone case_extraction","2","17:48:29","17:48:53",
+Bot139,"3371",normal,9,Active,"Crates Outside of Stairwell","Crates Outside of Stairwell: Objective #1","1","17:48:58","N/A",
+Bot142,"Rena-chan",normal,12,Pending,"Farming - Part 1","Zone place_SADOVOD_01_1","1","17:48:15","N/A",
+Bot143,"Anthal",normal,6,Active,"Delivery From the Past","Zone case_extraction","1","17:48:15","N/A",
+Bot141,"Kiobu",normal,3,Failed,"Weapon Crate Outside of Forklift","Weapon Crate Outside of Forklift: Objective #1","1","17:48:15","17:49:28",

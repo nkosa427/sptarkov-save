@@ -1,0 +1,10 @@
+Bot Name,Bot Nickname,Bot Difficulty,Bot Level,Assignment Status,Quest Name,Objective Name,Step Number,Start Time,End Time
+Bot40,"Арни Рэйдж (TR_LEOPAR)",normal,1,Pending,"Crates Outside of Scav Bunker","Crates Outside of Scav Bunker: Objective #1","2","20:20:01","N/A",
+Bot41,"Порфирий Волчара (ViolentAmbush)",normal,1,Completed,"Weapon Crate in Workshop","Weapon Crate in Workshop: Objective #1","1","20:20:01","20:20:10",
+Bot41,"Порфирий Волчара (ViolentAmbush)",normal,1,Pending,"Basement Crates","Basement Crates: Objective #1","1","20:20:15","N/A",
+Bot44,"Hupfi",normal,8,Failed,"Sanitary Standards - Part 1","Zone pumproom","1","20:20:01","20:20:36",
+Bot46,"r2go",normal,1,Pending,"3rd Floor Office","3rd Floor Office: Objective #1","1","20:20:01","N/A",
+Bot45,"adudewithbadaim",normal,18,Failed,"Chemical - Part 3","Item Syringe with a chemical","1","20:20:02","20:21:01",
+Bot42,"Clodan",normal,13,Completed,"Scout","Zone place_pacemaker_SCOUT_01","1","20:20:02","20:20:14",
+Bot42,"Clodan",normal,13,Active,"Scout","Zone place_pacemaker_SCOUT_04","1","20:20:19","N/A",
+Bot43,"Swankyorc",normal,7,Pending,"Sanitary Standards - Part 1","Zone pumproom","1","20:20:03","N/A",
