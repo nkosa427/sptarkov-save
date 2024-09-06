@@ -39,3 +39,15 @@
 [2024-09-05 16:58:29][Info] [LaunchGame] Valid Game Path   :: OK
 [2024-09-05 16:58:29][Info] [LaunchGame] Applying Patch    :: OK
 [2024-09-05 16:58:29][Info] [LaunchGame] Game process started
+[2024-09-05 20:20:57][Info] >>> Launching Game
+[2024-09-05 20:20:57][Info] >>> Account: absol
+[2024-09-05 20:20:57][Info] >>> Server : http://127.0.0.1:6969
+[2024-09-05 20:20:57][Info] [LaunchGame] spt-core.dll version: 3.9.8
+[2024-09-05 20:20:57][Info] [LaunchGame] Installed in Live :: NO
+[2024-09-05 20:20:57][Info] [LaunchGame] Setup Game Files ...
+[2024-09-05 20:20:57][Info] Recursive Removal: E:\Games\SPTarkov\3.9.8\Logs
+[2024-09-05 20:20:57][Info] Recursive Removal: E:\Games\SPTarkov\3.9.8\Logs\log_2024.09.05_23-58-38_0.14.9.1.30626
+[2024-09-05 20:20:57][Info] [LaunchGame] Game Validation   :: OK
+[2024-09-05 20:20:57][Info] [LaunchGame] Valid Game Path   :: OK
+[2024-09-05 20:20:58][Info] [LaunchGame] Applying Patch    :: OK
+[2024-09-05 20:20:58][Info] [LaunchGame] Game process started
