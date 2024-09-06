@@ -6,7 +6,6 @@ Minimap/
 MonoBleedingEdge/
 NLog/
 
-*.log
 **/BepInEx/cache/
 
 SPTInstaller.exe
@@ -18,7 +17,6 @@ EscapeFromTarkov.exe
 
 **/DrakiaXYZ-LiveFleaPrices/config/
 
-*.log
 *.csv
 *.log
 *.png
