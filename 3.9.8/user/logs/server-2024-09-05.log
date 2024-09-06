@@ -9729,3 +9729,169 @@
 [2024-09-06T00:56:08.099Z] debug: 	Saved 2 profiles, took: 5.08ms
 [2024-09-06T00:56:09.600Z] info: 	[Client Request] /launcher/profile/info
 [2024-09-06T00:56:09.601Z] info: 	[Client Request] /launcher/server/version
+[2024-09-06T03:19:18.222Z] debug: 	Importing configs...
+[2024-09-06T03:19:18.255Z] info: 	Commit hash: a0c79ac6bc0e69663b5a749c9f8d515a74a8ccfa
+[2024-09-06T03:19:18.255Z] info: 	Build date: 1724054904726
+[2024-09-06T03:19:18.281Z] info: 	ModLoader: loading: 9 server mods...
+[2024-09-06T03:19:18.289Z] debug: 	ModLoader: Mod DanW-SPTQuestingBots is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod DrakiaXYZ-LiveFleaPrices is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod MoreCheckmarksBackend is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod ServerValueModifier is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod Skwizzy-LootingBots-ServerMod is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod SWAG is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod Zero2Hero++ is missing from order.json, adding
+[2024-09-06T03:19:18.290Z] debug: 	ModLoader: Mod zSolarint-SAIN-ServerMod is missing from order.json, adding
+[2024-09-06T03:19:18.298Z] info: 	Mod: AlgorithmicLevelProgression version: 5.2.0 by: DewardianDev loaded
+[2024-09-06T03:19:18.299Z] info: 	Mod: SPTQuestingBots version: 0.7.0 by: DanW loaded
+[2024-09-06T03:19:18.300Z] info: 	Mod: LiveFleaPrices version: 1.2.0 by: DrakiaXYZ loaded
+[2024-09-06T03:19:18.301Z] info: 	Mod: MoreCheckmarksBackend version: 1.5.14 by: VIP loaded
+[2024-09-06T03:19:18.301Z] info: 	Mod: SVM version: 1.9.1 by: GhostFenixx loaded
+[2024-09-06T03:19:18.302Z] info: 	Mod: LootingBots-ServerMod version: 1.3.5 by: Skwizzy loaded
+[2024-09-06T03:19:18.303Z] info: 	Mod: SWAG + DONUTS version: 3.5.1 by: nooky and props loaded
+[2024-09-06T03:19:18.303Z] info: 	Mod: Zero2Hero++ version: 1.1.1 by: TheDevilsrevenge loaded
+[2024-09-06T03:19:18.304Z] info: 	Mod: SAIN Server Mod version: 1.0.0 by: Solarint loaded
+[2024-09-06T03:19:18.385Z] info: 	Server: executing startup callbacks...
+[2024-09-06T03:19:18.385Z] debug: 	OS: x64 | Windows 10 Home | win32
+[2024-09-06T03:19:18.386Z] debug: 	CPU: 11th Gen Intel(R) Core(TM) i7-11700KF @ 3.60GHz cores: 16
+[2024-09-06T03:19:18.386Z] debug: 	RAM: 31.84GB
+[2024-09-06T03:19:18.386Z] debug: 	PATH: RTpcR2FtZXNcU1BUYXJrb3ZcMy45LjhcU1BULlNlcnZlci5leGU=
+[2024-09-06T03:19:18.386Z] debug: 	PATH: RTpcR2FtZXNcU1BUYXJrb3ZcMy45LjhcU1BULlNlcnZlci5leGU=
+[2024-09-06T03:19:18.386Z] debug: 	Server: 3.9.8
+[2024-09-06T03:19:18.386Z] debug: 	Date: 1724054904726
+[2024-09-06T03:19:18.386Z] debug: 	Commit: a0c79ac6bc0e69663b5a749c9f8d515a74a8ccfa
+[2024-09-06T03:19:18.387Z] info: 	Importing database...
+[2024-09-06T03:19:18.540Z] debug: 	File validation failed for file: SPT_Data/Server/database/locales/server/en.json
+[2024-09-06T03:19:21.754Z] info: 	Database import finished.
+[2024-09-06T03:19:22.053Z] info: 	[Questing Bots] Applying debug options...
+[2024-09-06T03:19:22.058Z] info: 	Fetching Flea Prices...
+[2024-09-06T03:19:22.154Z] debug: 	Setting 5b7d678a5acfc4001a5c4022 to 10000 instead of 12257 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 59d64f2f86f77417193ef8b3 to 10000 instead of 14412 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 602f85fd9b513876d4338d9c to 10000 instead of 23851 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5c471bfc2e221602b21d4e17 to 13000 instead of 15406 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 649ec2af961514b22506b10f to 8690 instead of 17381 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5fb6548dd1409e5ca04b54f9 to 1000 instead of 6867 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5fbbc34106bde7524f03cbe9 to 3330 instead of 6943 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5d3eb536a4b9363b1f22f8e2 to 10000 instead of 31961 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5bb20e49d4351e3bac1212de to 9860 instead of 23368 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5aa2a7e8e5b5b00016327c16 to 25400 instead of 41039 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 5a13ef7e86f7741290491063 to 933390 instead of 1104857 due to over inflation
+[2024-09-06T03:19:22.155Z] debug: 	Setting 59e4d3d286f774176a36250a to 1140 instead of 2990 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 56083e1b4bdc2dc8488b4572 to 9990 instead of 44529 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 5649b0fc4bdc2d17108b4588 to 20680 instead of 33774 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 5649b1c04bdc2d16268b457c to 18470 instead of 18801 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 56d59948d2720bb7418b4582 to 20960 instead of 28534 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 56d5a2bbd2720bb8418b456a to 10010 instead of 13437 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 56deee15d2720bee328b4567 to 5000 instead of 9679 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 571a29dc2459771fb2755a6a to 11570 instead of 11737 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 576a63cd2459771e796e0e11 to 7030 instead of 9042 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 57c44fa82459772d2d75e415 to 14930 instead of 21882 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 57f3a5ae2459772b0e0bf19e to 2760 instead of 20510 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 5839a7742459773cf9693481 to 32030 instead of 34815 due to over inflation
+[2024-09-06T03:19:22.156Z] debug: 	Setting 58949edd86f77409483e16a9 to 7300 instead of 36220 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5894a42086f77426d2590762 to 43110 instead of 53535 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 591c4e1186f77410354b316e to 1000 instead of 7944 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5926c32286f774616e42de99 to 16500 instead of 20462 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5998517986f7746017232f7e to 8990 instead of 15152 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5998597786f77414ea6da093 to 6630 instead of 9250 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 59d36a0086f7747e673f3946 to 20010 instead of 23296 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 59d64ec286f774171d1e0a42 to 20550 instead of 20821 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 59e62cc886f77440d40b52a1 to 7010 instead of 26411 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5a0ed824fcdbcb0176308b0d to 4700 instead of 14000 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5a0f096dfcdbcb0176308b15 to 4700 instead of 20000 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5a33b2c9c4a282000c5a9511 to 16480 instead of 26710 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5a7882dcc5856700177af662 to 10300 instead of 81817 due to over inflation
+[2024-09-06T03:19:22.157Z] debug: 	Setting 5a7d90eb159bd400165484f1 to 19030 instead of 21529 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ab626e4d8ce87272e4c6e43 to 15590 instead of 59833 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ac72e615acfc43f67248aa0 to 6000 instead of 13725 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ac72e945acfc43f3b691116 to 6000 instead of 11605 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ae096d95acfc400185c2c81 to 24620 instead of 80264 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5b0bc22d5acfc47a8607f085 to 4700 instead of 24949 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5b1faa0f5acfc40dc528aeb5 to 65370 instead of 500000 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5b3f3af486f774679e752c1f to 5730 instead of 13333 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ba26b01d4351e0085325a51 to 6020 instead of 9649 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ba26b17d4351e00367f9bdd to 8030 instead of 9527 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5ba36f85d4351e0085325c81 to 2610 instead of 8492 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5bf3f59f0db834001a6fa060 to 8000 instead of 10000 due to over inflation
+[2024-09-06T03:19:22.158Z] debug: 	Setting 5bfd36ad0db834001c38ef66 to 16000 instead of 31876 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5bfe89510db834001808a127 to 10700 instead of 29916 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c05295e0db834001a66acbb to 24000 instead of 29707 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c091a4e0db834001d5addc8 to 31070 instead of 86214 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c0e874186f7745dc7616606 to 83720 instead of 126977 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c471b7e2e2216152006e46c to 8780 instead of 13277 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c471bd12e221602b4129c3a to 11090 instead of 69580 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c471be12e221602b66cd9ac to 7640 instead of 35518 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5c5db6b32e221600102611a0 to 17800 instead of 33278 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5cbda392ae92155f3c17c39f to 13220 instead of 13373 due to over inflation
+[2024-09-06T03:19:22.159Z] debug: 	Setting 5cc7015ae4a949001152b4c6 to 10000 instead of 17018 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5cdaa99dd7f00c002412d0b2 to 10220 instead of 17551 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5cdeac5cd7f00c000f261694 to 18000 instead of 23952 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5d124c01d7ad1a115c7d59fb to 12000 instead of 16807 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5d133067d7ad1a33013f95b4 to 15730 instead of 35656 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5d3eb4aba4b93650d64e497d to 9000 instead of 16960 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5de6556a205ddc616a6bc4f7 to 2000 instead of 2276 due to over inflation
+[2024-09-06T03:19:22.160Z] debug: 	Setting 5de8e67c4a9f347bc92edbd7 to 52600 instead of 99000 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5de8fb539f98ac2bc659513a to 9000 instead of 18900 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5de8fbad2fbe23140d3ee9c4 to 26500 instead of 62771 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5de910da8b6c4240ba2651b5 to 23500 instead of 30000 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5df35ddddfc58d14537c2036 to 31500 instead of 73000 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5df35e970b92095fd441e4d2 to 22000 instead of 77833 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5e87080c81c4ed43e83cefda to 15000 instead of 20000 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5ef32e4d1c1fd62aea6a150d to 37000 instead of 40000 due to over inflation
+[2024-09-06T03:19:22.161Z] debug: 	Setting 5f2aa46b878ef416f538b567 to 157000 instead of 160673 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5f2aa47a200e2c0ee46efa71 to 108850 instead of 186444 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5f3e77b26cda304dcc634057 to 12000 instead of 12726 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5f3e7823ddc4f03b010e2045 to 51000 instead of 124154 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5fb65424956329274326f316 to 13400 instead of 31270 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5fbbc3324e8a554c40648348 to 13400 instead of 20700 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5fbcc640016cce60e8341acc to 7330 instead of 14308 due to over inflation
+[2024-09-06T03:19:22.162Z] debug: 	Setting 5fc0fa957283c4046c58147e to 10500 instead of 26130 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 602e63fb6335467b0c5ac94d to 41980 instead of 45692 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 60361b5a9a15b10d96792291 to 23530 instead of 31083 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 6040de02647ad86262233012 to 33530 instead of 49218 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 606587a88900dc2d9a55b659 to 47600 instead of 1055340 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 607ea812232e5a31c233d53c to 10000 instead of 19538 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 6086b5392535c57a13424d70 to 10000 instead of 19202 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 60dc519adf4c47305f6d410d to 15000 instead of 42000 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 611a30addbdd8440277441dc to 41000 instead of 49500 due to over inflation
+[2024-09-06T03:19:22.163Z] debug: 	Setting 6123649463849f3d843da7c4 to 15290 instead of 42000 due to over inflation
+[2024-09-06T03:19:22.164Z] debug: 	Setting 612781056f3d944a17348d60 to 18470 instead of 42000 due to over inflation
+[2024-09-06T03:19:22.164Z] debug: 	Setting 612e0e04568c120fdd294258 to 10000 instead of 22401 due to over inflation
+[2024-09-06T03:19:22.164Z] debug: 	Setting 618167441cb55961fa0fdc71 to 21000 instead of 61429 due to over inflation
+[2024-09-06T03:19:22.164Z] debug: 	Setting 61825d24d3a39d50044c13af to 22000 instead of 48666 due to over inflation
+[2024-09-06T03:19:22.164Z] debug: 	Setting 6194f35c18a3974e5e7421e6 to 6000 instead of 24989 due to over inflation
+[2024-09-06T03:19:22.165Z] debug: 	Setting 6194f41f9fb0c665d5490e75 to 33000 instead of 37291 due to over inflation
+[2024-09-06T03:19:22.165Z] debug: 	Setting 6196255558ef8c428c287d1c to 15000 instead of 30024 due to over inflation
+[2024-09-06T03:19:22.165Z] debug: 	Setting 622f02437762f55aaa68ac85 to 10000 instead of 10556 due to over inflation
+[2024-09-06T03:19:22.165Z] debug: 	Setting 622f039199f4ea1a4d6c9a17 to 15000 instead of 25722 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 62386b2adf47d66e835094b2 to 25000 instead of 26802 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 623c2f652febb22c2777d8d7 to 10090 instead of 19607 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 6241c2c2117ad530666a5108 to 31130 instead of 59953 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 62444cb99f47004c781903eb to 15730 instead of 20592 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 628120dd308cb521f87a8fa1 to 19000 instead of 19999 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 628b9471078f94059a4b9bfb to 7000 instead of 19722 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 628b9be6cff66b70c002b14c to 20000 instead of 58820 due to over inflation
+[2024-09-06T03:19:22.166Z] debug: 	Setting 62ebbc53e3c1e1ec7c02c44f to 17000 instead of 24800 due to over inflation
+[2024-09-06T03:19:22.167Z] debug: 	Setting 62ed189fb3608410ef5a2bfc to 10000 instead of 16618 due to over inflation
+[2024-09-06T03:19:22.167Z] debug: 	Setting 62ed1921b3608410ef5a2c04 to 12000 instead of 16385 due to over inflation
+[2024-09-06T03:19:22.167Z] debug: 	Setting 62ff9faffe938a24c90c10df to 6000 instead of 11250 due to over inflation
+[2024-09-06T03:19:22.167Z] debug: 	Setting 637ba29bf7ca6372bf2613db to 9000 instead of 17333 due to over inflation
+[2024-09-06T03:19:22.168Z] debug: 	Setting 63fc4533b10b17385349b565 to 7640 instead of 11055 due to over inflation
+[2024-09-06T03:19:22.168Z] debug: 	Setting 64119d672c6d6f921a0929fb to 3500 instead of 8518 due to over inflation
+[2024-09-06T03:19:22.168Z] debug: 	Setting 6513f0f5e63f29908d0ffab8 to 7640 instead of 13851 due to over inflation
+[2024-09-06T03:19:22.168Z] debug: 	Setting 6529109524cbe3c74a05e5b7 to 15780 instead of 17750 due to over inflation
+[2024-09-06T03:19:22.169Z] debug: 	Setting 653ecc425a1690d9d90491e4 to 15850 instead of 18532 due to over inflation
+[2024-09-06T03:19:22.169Z] debug: 	Setting 653ece125a1690d9d90491e8 to 12680 instead of 16530 due to over inflation
+[2024-09-06T03:19:22.170Z] info: 	Flea Prices Updated!
+[2024-09-06T03:19:22.190Z] info: 	[LootingBots-ServerMod] Marking items with DiscardLimits as InsuranceDisabled
+[2024-09-06T03:19:22.192Z] info: 	[LootingBots-ServerMod] Global config DiscardLimitsEnabled set to false
+[2024-09-06T03:19:22.201Z] debug: 	2 Profiles took: 8.95ms to load.
+[2024-09-06T03:19:25.665Z] info: 	[Questing Bots] Removing blacklisted brain types from being used for PMC's...
+[2024-09-06T03:19:25.667Z] info: 	[Questing Bots] Removing blacklisted brain types from being used for PMC's...done. Removed entries: 144
+[2024-09-06T03:19:25.667Z] warn: 	[Questing Bots] SWAG Detected. Disabling bot spawning.
+[2024-09-06T03:19:25.671Z] succ: 	Started webserver at http://127.0.0.1:6969
+[2024-09-06T03:19:25.672Z] succ: 	Started websocket at ws://127.0.0.1:6969
+[2024-09-06T03:19:25.672Z] succ: 	Server is running, do not close while playing SPT, Happy playing!!
+[2024-09-06T03:19:30.697Z] debug: 	Saved 2 profiles, took: 13.11ms
+[2024-09-06T03:19:50.688Z] debug: 	Saved 2 profiles, took: 3.76ms
+[2024-09-06T03:20:10.689Z] debug: 	Saved 2 profiles, took: 4.34ms
+[2024-09-06T03:20:30.690Z] debug: 	Saved 2 profiles, took: 4.58ms
