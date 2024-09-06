@@ -1,0 +1,21 @@
+*.log
+/3.7.4 backup/
+/3.7.5 backup/
+/Aki_Data/
+/EscapeFromTarkov_Data/
+/Minimap/*
+!/Minimap/*.json
+/Logs/
+/MonoBleedingEdge/
+/NLog/
+/user/logs/
+/user/mods/DrakiaXYZ-LiveFleaPrices/config/
+Aki.Launcher.exe
+Aki.Server.exe
+EscapeFromTarkov.exe
+SPTInstaller.exe
+UnityPlayer.dll
+winhttp.dll
+user/mods/DrakiaXYZ-LiveFleaPrices/config/prices.json
+user/mods/DrakiaXYZ-LiveFleaPrices/config/config.json
+BepInEx/cache/harmony_interop_cache.dat
