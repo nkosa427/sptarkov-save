@@ -298,7 +298,7 @@
       "CarExtractTime": 60,
       "ArmorExtract": false,
       "CoopPaid": true,
-      "FenceGift": false,
+      "FenceGift": true,
       "CoopPaidInterchange": 10000,
       "CoopPaidWoods": 10000,
       "CoopPaidReserve": 10000,
